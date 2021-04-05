@@ -1,0 +1,16 @@
+###
+GET http://localhost:8080/custom/first
+Accept: application/json
+
+###
+GET http://localhost:8080/custom/second
+Accept: application/json
+
+###
+GET http://localhost:8080/custom/third
+Accept: application/json
+
+###
+GET http://localhost:8080/custom/fourth
+Accept: application/json
+
